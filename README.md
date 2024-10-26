@@ -18,8 +18,8 @@ El propósito de este proyecto es clasificar a la población en diferentes nivel
   - **Total de Personas**: Número de personas en el hogar
   - **Disponibilidad de PC, Celular e Internet**: Indicadores de acceso a tecnologías en cada hogar
   - **Edad**: Indicar las edades de la poblacion
-  - **Sexo**: Indica la diferencia entre hombres y mujeres en el uso de TIC's 
-Los datos se han filtrado para centrarse en estas variables, que serán la base para clasificar el nivel socioeconómico de los hogares.
+  - **Sexo**: Indica la diferencia entre hombres y mujeres en el uso de TIC's
+  - Los datos se han filtrado para centrarse en estas variables, que serán la base para clasificar el nivel socioeconómico de los hogares.
 
 ## Objetivos
 
