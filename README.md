@@ -30,16 +30,3 @@ Los datos se han filtrado para centrarse en estas variables, que serán la base 
 
 - Python 3.x
 - Bibliotecas: `pandas`, `numpy`, `scikit-learn`, `matplotlib` (para el análisis y visualización de datos)
-
-## Estructura del Proyecto
-
-```plaintext
-.
-├── data/                   # Archivos de datos de INEGI (2019 - 2023)
-├── notebooks/              # Jupyter notebooks para exploración inicial de datos
-├── src/                    # Scripts de análisis y modelos
-│   ├── preprocess.py       # Preprocesamiento de datos
-│   ├── classify.py         # Clasificación de niveles socioeconómicos
-│   ├── predict.py          # Predicción de cambios en los niveles
-├── results/                # Resultados y gráficos generados
-└── README.md               # Documentación del proyecto
